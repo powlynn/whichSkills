@@ -1,0 +1,33 @@
+body{
+	color:#FFFFFF;
+}
+
+#main{
+	width:80%;
+	background-color:#81BEF7;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:50px;
+	-webkit-border-radius:15px;
+}
+
+h2{
+	padding:10%;
+	text-align:center;
+}
+
+form{
+	padding-left:20%;
+	position:relative;
+	top:-70px;
+}
+
+#submit{
+	height:50px;
+	width:200px;
+	-webkit-border-radius:5px;
+	background-color:#CEE3F6;
+	position:relative;
+	right:-223px;
+	bottom:-25px;
+}
