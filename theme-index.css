@@ -10,6 +10,15 @@
 h2{
 	padding-top:7%;
 	text-align:center;
+	font-size: 48px; 	
+}
+
+.title{
+	padding-left: 25%;
+	font-family: Josefin Slab, serif;
+	font-size: 20px;
+	position:relative;
+	top:-35px;
 }
 
 table{
